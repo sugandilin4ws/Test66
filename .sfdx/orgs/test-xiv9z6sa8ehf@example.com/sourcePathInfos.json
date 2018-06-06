@@ -1,0 +1,368 @@
+[
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528272848246,
+            "changeTime": 1528272848246,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528272848246,
+            "changeTime": 1528272848246,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528274425736,
+            "changeTime": 1528274425736,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528272990581,
+            "changeTime": 1528272990581,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528272990614,
+            "changeTime": 1528272990614,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1528272990614,
+            "changeTime": 1528272990614,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1528273030649,
+            "changeTime": 1528273030649,
+            "contentHash": "92ac0e16c34092a07bc4ac00298bbf932ccc8f37",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1528272990598,
+            "changeTime": 1528272990598,
+            "contentHash": "e1e968b3b1241b0b99f46111ddfbaf9b8727535e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1528272990598,
+            "changeTime": 1528272990598,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1528272990614,
+            "changeTime": 1528272990614,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1528272990614,
+            "changeTime": 1528272990614,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1528272990598,
+            "changeTime": 1528272990598,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1528272990598,
+            "changeTime": 1528272990598,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1528272990598,
+            "changeTime": 1528272990598,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo",
+        {
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528273191315,
+            "changeTime": 1528273191315,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\flexipages\\Wkakakaka.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\flexipages\\Wkakakaka.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 702,
+            "modifiedTime": 1528274425720,
+            "changeTime": 1528274425720,
+            "contentHash": "2b930ccdef460985b59e8f69559b0e775324317f"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\tabs\\Wkakakaka.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\tabs\\Wkakakaka.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1528274425720,
+            "changeTime": 1528274425720,
+            "contentHash": "7838975fefb933fd7eef4107bc004f97a6c9de7f"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 910,
+            "modifiedTime": 1528274425736,
+            "changeTime": 1528274425736,
+            "contentHash": "ced48e28a10e8915fc95791c9b335d08d6fabe66"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4628,
+            "modifiedTime": 1528274425773,
+            "changeTime": 1528274425773,
+            "contentHash": "65dca36acedb3bb1b95c9527e3f49c14a67d715f"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17684,
+            "modifiedTime": 1528274425770,
+            "changeTime": 1528274425770,
+            "contentHash": "e323fcc29b124d874d9fcfaccc47ae646ae70557"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4628,
+            "modifiedTime": 1528274425773,
+            "changeTime": 1528274425773,
+            "contentHash": "65dca36acedb3bb1b95c9527e3f49c14a67d715f"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4966,
+            "modifiedTime": 1528274425773,
+            "changeTime": 1528274425773,
+            "contentHash": "4bcaf43d559145a88f3f00813e079cbd9bd1e247"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528274425720,
+            "changeTime": 1528274425720,
+            "contentHash": "ba5a2264489bf87fc8977c6f524f0cf4c75aee25"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528274425720,
+            "changeTime": 1528274425720,
+            "contentHash": "6bbbae53717721073b4ce6249e7ea535a228fcf9"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528274425736,
+            "changeTime": 1528274425736,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
+        }
+    ],
+    [
+        "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Saasten\\Desktop\\Test Bu Debora\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528274425752,
+            "changeTime": 1528274425752,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+        }
+    ]
+]
